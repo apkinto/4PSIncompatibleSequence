@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psConfiguration>
+    <variableList>
+        <psInputDirectory>C:\Users\alkim.ORADEV\Documents\Python\amri</psInputDirectory>
+        <psOutputDirectory>C:\Users\alkim.ORADEV\Documents\Python\amri</psOutputDirectory>
+        <threshold>0.01</threshold>
+        <logname>psPy.log</logname>
+        <!--<psXml>Simple.xml</psXml>
+        <resource>R2</resource>-->
+        <resource>B33-INT 3</resource>
+        <resourceGroup>CONSTRAINED</resourceGroup>
+        <incompatibleSequence>[["21275104", "21884006" ],["21275106", "21275104" ]]</incompatibleSequence>
+        <jc>test</jc>
+    </variableList>
+</psConfiguration>
